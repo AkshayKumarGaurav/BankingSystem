@@ -3,3 +3,6 @@ node_modules/
 
 # Ignore the tsconfig.json file
 tsconfig.json
+
+# Local Netlify folder
+.netlify
